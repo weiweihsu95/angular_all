@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Angular/NewPark/.idea/NewPark.iml" filepath="$PROJECT_DIR$/../Angular/NewPark/.idea/NewPark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Angular/midterm/.idea/midterm.iml" filepath="$PROJECT_DIR$/../Angular/midterm/.idea/midterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react/myApp/.idea/myApp.iml" filepath="$PROJECT_DIR$/../react/myApp/.idea/myApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Angular/park-main/.idea/park-main.iml" filepath="$PROJECT_DIR$/../Angular/park-main/.idea/park-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react/react-tutorial/.idea/react-tutorial.iml" filepath="$PROJECT_DIR$/../react/react-tutorial/.idea/react-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Angular/store/.idea/store.iml" filepath="$PROJECT_DIR$/../Angular/store/.idea/store.iml" />
+      <module fileurl="file:///Applications/MAMP/htdocs/webclasshomework/untitled/.idea/untitled.iml" filepath="/Applications/MAMP/htdocs/webclasshomework/untitled/.idea/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vue-admin/.idea/vue-admin.iml" filepath="$PROJECT_DIR$/../vue-admin/.idea/vue-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vue_shop/.idea/vue_shop.iml" filepath="$PROJECT_DIR$/../vue_shop/.idea/vue_shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vue_shop1-master.iml" filepath="$PROJECT_DIR$/.idea/vue_shop1-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vue_shop_1/.idea/vue_shop_1.iml" filepath="$PROJECT_DIR$/../vue_shop_1/.idea/vue_shop_1.iml" />
+    </modules>
+  </component>
+</project>

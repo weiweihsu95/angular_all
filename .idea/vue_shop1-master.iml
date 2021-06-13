@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="vue_shop" />
+    <orderEntry type="module" module-name="vue_shop_1" />
+    <orderEntry type="module" module-name="vue-admin" />
+    <orderEntry type="module" module-name="untitled" />
+    <orderEntry type="module" module-name="react-tutorial" />
+    <orderEntry type="module" module-name="myApp" />
+    <orderEntry type="module" module-name="midterm" />
+    <orderEntry type="module" module-name="store" />
+    <orderEntry type="module" module-name="NewPark" />
+    <orderEntry type="module" module-name="park-main" />
+  </component>
+</module>
